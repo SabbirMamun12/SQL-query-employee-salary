@@ -25,7 +25,10 @@ Before using these queries, ensure the following prerequisites are met:
 
 The queries provided in this repository cover a range of tasks related to managing employee salary information:
 
+- Uses of clause DISTINCT, AS, FROM, WHERE, BETWEEN, LIKE, COUNT,GROUP BY, ORDER BY, DESC, JOINS (INNER, LEFT, RIGHT, FULL)
 - Retrieving individual employee salaries.
+- Adding new records to the database.
+- Deleting records as needed.
 - Calculating aggregate statistics such as average, minimum, and maximum salaries.
 - Updating employee salaries based on various criteria such as performance reviews or promotions.
 - Generating reports summarizing salary distributions across departments, positions, or other categories.
